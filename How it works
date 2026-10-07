@@ -1,0 +1,3 @@
+This is how it works.
+First it created the picture from a website. It then adds jQuery.
+It picks a random number 1-390. That will be were the treasure is. It gets a distance from were a click happens. We do this by making x and y and the y from the target to get x. It is the same for y. After that it uses a chain of if then loops to create the hot and cold functions.It uses a click handler in a function loop to count clicks. Last if the user found the treasure it says congrats you found the treasure in however many clicks it took  you.
